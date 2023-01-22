@@ -10,5 +10,4 @@ width="300">
 
 ### Exercícios: está pasta armazena os exercícios realizados durante o curso.
 
-### Testes: aqui se encontra alguns teste realizados com o <i>"pytest"</i>, framework para realização de teste em python automatizados.
 
