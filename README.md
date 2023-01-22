@@ -1,6 +1,6 @@
 # Introdução a Ciência da Computação com Python parte 2 - IME/USP
 
-<img src="https://w7.pngwing.com/pngs/266/560/png-transparent-python-computer-icons-programmer-javascript-programming-language-python-logo-angle-text-logo.png" height="250" width="300"> <img src="https://www.arquer.com.br/wp-content/uploads/2017/08/USP.jpg" heigth="300"
+<img src="https://img.freepik.com/icones-gratis/linguagem-python_318-1898.jpg" height="250" width="300"> <img src="https://www.arquer.com.br/wp-content/uploads/2017/08/USP.jpg" heigth="300"
 width="300">
 
 ### Neste repositório disponibilizo exercicíos, testes, projetos e afins realizados no segundo curso de <strong><i>Introdução a Ciência da Computação com Python</strong></i> oferecido na plataforma Coursera.
